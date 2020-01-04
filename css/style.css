@@ -943,7 +943,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
-
+#detail {
+    color:dimgrey;
+} 
+#detail:hover{
+    color:white;
+}
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
   background: #3385bd;
